@@ -1,3 +1,8 @@
+# Team Members
+Ekansh Chauhan
+Gagan Sharma  ->  https://github.com/Helios21x
+Kartik Singh -> https://github.com/23kartiksingh
+
 # Credit_Card_fraud_detection
 In today's digital world, fraud detection is more critical than ever. In this project, we used machine learning to identify fraudulent transactions in a dataset containing customer details, transaction times, locations, and more. Using Python libraries like Pandas, Seaborn, and Scikit-learn, we built and compared models to detect fraud effectively.
 
